@@ -1,12 +1,6 @@
 #include <iostream>
 #include "main.h"
 #include <vector>
-#include "Address.cpp"
-#include "Employees.cpp"
-#include "Engineers.cpp"
-#include "ManagerOfficer.cpp"
-#include "Officer.cpp"
-#include "Worker.cpp"
 using namespace std; 
 int main()
 {
